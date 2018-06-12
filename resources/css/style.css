@@ -1,0 +1,30 @@
+.header {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: White;
+}
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+}
+html {
+  background-color: Black;
+  text-align: center;
+}
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+.writing {
+  font-size: 21px;
+  font-family: Verdana
+  color: Grey;
+}
+.copyright {
+text-align: right;
+color: Grey;
+}
